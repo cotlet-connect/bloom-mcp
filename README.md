@@ -110,6 +110,7 @@ We could not find a verified official Bloom listing in ChatGPT's apps directory 
 - [Bloom on Cotlet.dev](https://cotlet.dev/integrations/bloom-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=bloom&utm_content=find)
 - [PyPI package bloom-cotlet-mcp](https://pypi.org/project/bloom-cotlet-mcp/)
 - [Odel](https://odel.app/modules/cotlet/bloom)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/bloom/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-bloom-to-ai-agents-guide)
 
 ## Also works with
